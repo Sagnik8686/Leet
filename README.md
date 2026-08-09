@@ -34,4 +34,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sagnik8686/Leet/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Array
+|  |
+| ------- |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/Sagnik8686/Leet/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 <!---LeetCode Topics End-->
