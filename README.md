@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Sagnik8686/Leet/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sagnik8686/Leet/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Sagnik8686/Leet/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0643-maximum-average-subarray-i](https://github.com/Sagnik8686/Leet/tree/master/0643-maximum-average-subarray-i) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Sagnik8686/Leet/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/Sagnik8686/Leet/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Sagnik8686/Leet/tree/master/2078-two-furthest-houses-with-different-colors) |
@@ -111,4 +112,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Sagnik8686/Leet/tree/master/0053-maximum-subarray) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/Sagnik8686/Leet/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
