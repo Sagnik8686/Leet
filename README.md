@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sagnik8686/Leet/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Sagnik8686/Leet/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0189-rotate-array](https://github.com/Sagnik8686/Leet/tree/master/0189-rotate-array) |
+| [0485-max-consecutive-ones](https://github.com/Sagnik8686/Leet/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/Sagnik8686/Leet/tree/master/0643-maximum-average-subarray-i) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Sagnik8686/Leet/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/Sagnik8686/Leet/tree/master/2016-maximum-difference-between-increasing-elements) |
