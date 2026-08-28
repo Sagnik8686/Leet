@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sagnik8686/Leet/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Sagnik8686/Leet/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0189-rotate-array](https://github.com/Sagnik8686/Leet/tree/master/0189-rotate-array) |
+| [0217-contains-duplicate](https://github.com/Sagnik8686/Leet/tree/master/0217-contains-duplicate) |
 | [0485-max-consecutive-ones](https://github.com/Sagnik8686/Leet/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/Sagnik8686/Leet/tree/master/0643-maximum-average-subarray-i) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Sagnik8686/Leet/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -87,11 +88,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Sagnik8686/Leet/tree/master/0001-two-sum) |
 | [0202-happy-number](https://github.com/Sagnik8686/Leet/tree/master/0202-happy-number) |
+| [0217-contains-duplicate](https://github.com/Sagnik8686/Leet/tree/master/0217-contains-duplicate) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Sagnik8686/Leet/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Sagnik8686/Leet/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/Sagnik8686/Leet/tree/master/0217-contains-duplicate) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Sagnik8686/Leet/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Binary Search
 |  |
