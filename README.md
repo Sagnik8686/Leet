@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Sagnik8686/Leet/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Sagnik8686/Leet/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Sagnik8686/Leet/tree/master/0345-reverse-vowels-of-a-string) |
+| [2460-apply-operations-to-an-array](https://github.com/Sagnik8686/Leet/tree/master/2460-apply-operations-to-an-array) |
 ## String
 |  |
 | ------- |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Sagnik8686/Leet/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/Sagnik8686/Leet/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Sagnik8686/Leet/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2460-apply-operations-to-an-array](https://github.com/Sagnik8686/Leet/tree/master/2460-apply-operations-to-an-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Sagnik8686/Leet/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Sagnik8686/Leet/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Sagnik8686/Leet/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2390-removing-stars-from-a-string](https://github.com/Sagnik8686/Leet/tree/master/2390-removing-stars-from-a-string) |
+| [2460-apply-operations-to-an-array](https://github.com/Sagnik8686/Leet/tree/master/2460-apply-operations-to-an-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Sagnik8686/Leet/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Dynamic Programming
 |  |
