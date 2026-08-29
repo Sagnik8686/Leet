@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/Sagnik8686/Leet/tree/master/0520-detect-capital) |
 | [0564-find-the-closest-palindrome](https://github.com/Sagnik8686/Leet/tree/master/0564-find-the-closest-palindrome) |
 | [2129-capitalize-the-title](https://github.com/Sagnik8686/Leet/tree/master/2129-capitalize-the-title) |
+| [2351-first-letter-to-appear-twice](https://github.com/Sagnik8686/Leet/tree/master/2351-first-letter-to-appear-twice) |
 ## String Matching
 |  |
 | ------- |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Sagnik8686/Leet/tree/master/0001-two-sum) |
 | [0202-happy-number](https://github.com/Sagnik8686/Leet/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Sagnik8686/Leet/tree/master/0217-contains-duplicate) |
+| [2351-first-letter-to-appear-twice](https://github.com/Sagnik8686/Leet/tree/master/2351-first-letter-to-appear-twice) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Sagnik8686/Leet/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Sagnik8686/Leet/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Sorting
@@ -146,4 +148,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Sagnik8686/Leet/tree/master/0014-longest-common-prefix) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2351-first-letter-to-appear-twice](https://github.com/Sagnik8686/Leet/tree/master/2351-first-letter-to-appear-twice) |
+## Counting
+|  |
+| ------- |
+| [2351-first-letter-to-appear-twice](https://github.com/Sagnik8686/Leet/tree/master/2351-first-letter-to-appear-twice) |
 <!---LeetCode Topics End-->
