@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Sagnik8686/Leet/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/Sagnik8686/Leet/tree/master/0263-ugly-number) |
 | [0564-find-the-closest-palindrome](https://github.com/Sagnik8686/Leet/tree/master/0564-find-the-closest-palindrome) |
+| [2396-strictly-palindromic-number](https://github.com/Sagnik8686/Leet/tree/master/2396-strictly-palindromic-number) |
 ## Recursion
 |  |
 | ------- |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Sagnik8686/Leet/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Sagnik8686/Leet/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Sagnik8686/Leet/tree/master/0345-reverse-vowels-of-a-string) |
+| [2396-strictly-palindromic-number](https://github.com/Sagnik8686/Leet/tree/master/2396-strictly-palindromic-number) |
 | [2460-apply-operations-to-an-array](https://github.com/Sagnik8686/Leet/tree/master/2460-apply-operations-to-an-array) |
 ## String
 |  |
@@ -181,4 +183,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0867-transpose-matrix](https://github.com/Sagnik8686/Leet/tree/master/0867-transpose-matrix) |
 | [3033-modify-the-matrix](https://github.com/Sagnik8686/Leet/tree/master/3033-modify-the-matrix) |
+## Brainteaser
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/Sagnik8686/Leet/tree/master/2396-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
