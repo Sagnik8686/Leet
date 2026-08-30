@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Sagnik8686/Leet/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2460-apply-operations-to-an-array](https://github.com/Sagnik8686/Leet/tree/master/2460-apply-operations-to-an-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Sagnik8686/Leet/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3033-modify-the-matrix](https://github.com/Sagnik8686/Leet/tree/master/3033-modify-the-matrix) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Sagnik8686/Leet/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Sagnik8686/Leet/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Hash Table
@@ -179,4 +180,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0867-transpose-matrix](https://github.com/Sagnik8686/Leet/tree/master/0867-transpose-matrix) |
+| [3033-modify-the-matrix](https://github.com/Sagnik8686/Leet/tree/master/3033-modify-the-matrix) |
 <!---LeetCode Topics End-->
