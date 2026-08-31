@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/Sagnik8686/Leet/tree/master/0263-ugly-number) |
 | [0564-find-the-closest-palindrome](https://github.com/Sagnik8686/Leet/tree/master/0564-find-the-closest-palindrome) |
 | [2396-strictly-palindromic-number](https://github.com/Sagnik8686/Leet/tree/master/2396-strictly-palindromic-number) |
+| [3079-find-the-sum-of-encrypted-integers](https://github.com/Sagnik8686/Leet/tree/master/3079-find-the-sum-of-encrypted-integers) |
 ## Recursion
 |  |
 | ------- |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Sagnik8686/Leet/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3033-modify-the-matrix](https://github.com/Sagnik8686/Leet/tree/master/3033-modify-the-matrix) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Sagnik8686/Leet/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3079-find-the-sum-of-encrypted-integers](https://github.com/Sagnik8686/Leet/tree/master/3079-find-the-sum-of-encrypted-integers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Sagnik8686/Leet/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Hash Table
 |  |
