@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Sagnik8686/Leet/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Sagnik8686/Leet/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Sagnik8686/Leet/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/Sagnik8686/Leet/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/Sagnik8686/Leet/tree/master/0263-ugly-number) |
 | [0564-find-the-closest-palindrome](https://github.com/Sagnik8686/Leet/tree/master/0564-find-the-closest-palindrome) |
 | [2396-strictly-palindromic-number](https://github.com/Sagnik8686/Leet/tree/master/2396-strictly-palindromic-number) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Sagnik8686/Leet/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Sagnik8686/Leet/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/Sagnik8686/Leet/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/Sagnik8686/Leet/tree/master/0231-power-of-two) |
 ## Two Pointers
 |  |
 | ------- |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Sagnik8686/Leet/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/Sagnik8686/Leet/tree/master/0231-power-of-two) |
 | [2351-first-letter-to-appear-twice](https://github.com/Sagnik8686/Leet/tree/master/2351-first-letter-to-appear-twice) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Sagnik8686/Leet/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 ## Counting
