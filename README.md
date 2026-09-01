@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Sagnik8686/Leet/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Sagnik8686/Leet/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Sagnik8686/Leet/tree/master/0283-move-zeroes) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sagnik8686/Leet/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Sagnik8686/Leet/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/Sagnik8686/Leet/tree/master/0643-maximum-average-subarray-i) |
 | [0867-transpose-matrix](https://github.com/Sagnik8686/Leet/tree/master/0867-transpose-matrix) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Sagnik8686/Leet/tree/master/0041-first-missing-positive) |
 | [0202-happy-number](https://github.com/Sagnik8686/Leet/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Sagnik8686/Leet/tree/master/0217-contains-duplicate) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sagnik8686/Leet/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [2351-first-letter-to-appear-twice](https://github.com/Sagnik8686/Leet/tree/master/2351-first-letter-to-appear-twice) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Sagnik8686/Leet/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Sagnik8686/Leet/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
