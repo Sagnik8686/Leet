@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Sagnik8686/Leet/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Sagnik8686/Leet/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Sagnik8686/Leet/tree/master/0035-search-insert-position) |
+| [0041-first-missing-positive](https://github.com/Sagnik8686/Leet/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/Sagnik8686/Leet/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Sagnik8686/Leet/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Sagnik8686/Leet/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Sagnik8686/Leet/tree/master/0001-two-sum) |
+| [0041-first-missing-positive](https://github.com/Sagnik8686/Leet/tree/master/0041-first-missing-positive) |
 | [0202-happy-number](https://github.com/Sagnik8686/Leet/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Sagnik8686/Leet/tree/master/0217-contains-duplicate) |
 | [2351-first-letter-to-appear-twice](https://github.com/Sagnik8686/Leet/tree/master/2351-first-letter-to-appear-twice) |
