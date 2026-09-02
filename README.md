@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Sagnik8686/Leet/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Sagnik8686/Leet/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2460-apply-operations-to-an-array](https://github.com/Sagnik8686/Leet/tree/master/2460-apply-operations-to-an-array) |
+| [2733-neither-minimum-nor-maximum](https://github.com/Sagnik8686/Leet/tree/master/2733-neither-minimum-nor-maximum) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Sagnik8686/Leet/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3033-modify-the-matrix](https://github.com/Sagnik8686/Leet/tree/master/3033-modify-the-matrix) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Sagnik8686/Leet/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Sagnik8686/Leet/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Sagnik8686/Leet/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Sagnik8686/Leet/tree/master/0268-missing-number) |
+| [2733-neither-minimum-nor-maximum](https://github.com/Sagnik8686/Leet/tree/master/2733-neither-minimum-nor-maximum) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Sagnik8686/Leet/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Binary Search
 |  |
