@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-n-th-tribonacci-number](https://github.com/Sagnik8686/Leet/tree/master/1137-n-th-tribonacci-number) |
 | [1323-maximum-69-number](https://github.com/Sagnik8686/Leet/tree/master/1323-maximum-69-number) |
 | [2396-strictly-palindromic-number](https://github.com/Sagnik8686/Leet/tree/master/2396-strictly-palindromic-number) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Sagnik8686/Leet/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/Sagnik8686/Leet/tree/master/3079-find-the-sum-of-encrypted-integers) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Sagnik8686/Leet/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Sagnik8686/Leet/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Sagnik8686/Leet/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Sagnik8686/Leet/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2460-apply-operations-to-an-array](https://github.com/Sagnik8686/Leet/tree/master/2460-apply-operations-to-an-array) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Sagnik8686/Leet/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2733-neither-minimum-nor-maximum](https://github.com/Sagnik8686/Leet/tree/master/2733-neither-minimum-nor-maximum) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Sagnik8686/Leet/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3033-modify-the-matrix](https://github.com/Sagnik8686/Leet/tree/master/3033-modify-the-matrix) |
