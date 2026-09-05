@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Sagnik8686/Leet/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Sagnik8686/Leet/tree/master/0012-integer-to-roman) |
 | [0050-powx-n](https://github.com/Sagnik8686/Leet/tree/master/0050-powx-n) |
+| [0067-add-binary](https://github.com/Sagnik8686/Leet/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Sagnik8686/Leet/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Sagnik8686/Leet/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Sagnik8686/Leet/tree/master/0189-rotate-array) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Sagnik8686/Leet/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/Sagnik8686/Leet/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sagnik8686/Leet/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0067-add-binary](https://github.com/Sagnik8686/Leet/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Sagnik8686/Leet/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Sagnik8686/Leet/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/Sagnik8686/Leet/tree/master/0344-reverse-string) |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Sagnik8686/Leet/tree/master/0067-add-binary) |
 | [0867-transpose-matrix](https://github.com/Sagnik8686/Leet/tree/master/0867-transpose-matrix) |
 | [2390-removing-stars-from-a-string](https://github.com/Sagnik8686/Leet/tree/master/2390-removing-stars-from-a-string) |
 | [2460-apply-operations-to-an-array](https://github.com/Sagnik8686/Leet/tree/master/2460-apply-operations-to-an-array) |
@@ -229,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Sagnik8686/Leet/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Sagnik8686/Leet/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Sagnik8686/Leet/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Sagnik8686/Leet/tree/master/0268-missing-number) |
