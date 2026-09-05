@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2396-strictly-palindromic-number](https://github.com/Sagnik8686/Leet/tree/master/2396-strictly-palindromic-number) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Sagnik8686/Leet/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/Sagnik8686/Leet/tree/master/3079-find-the-sum-of-encrypted-integers) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/Sagnik8686/Leet/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Sagnik8686/Leet/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Sagnik8686/Leet/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Recursion
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Sagnik8686/Leet/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/Sagnik8686/Leet/tree/master/3079-find-the-sum-of-encrypted-integers) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Sagnik8686/Leet/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/Sagnik8686/Leet/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Sagnik8686/Leet/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Sagnik8686/Leet/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Sagnik8686/Leet/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/Sagnik8686/Leet/tree/master/1480-running-sum-of-1d-array) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/Sagnik8686/Leet/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3903-smallest-stable-index-i](https://github.com/Sagnik8686/Leet/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Sagnik8686/Leet/tree/master/3904-smallest-stable-index-ii) |
 <!---LeetCode Topics End-->
