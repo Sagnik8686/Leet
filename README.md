@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2235-add-two-integers](https://github.com/Sagnik8686/Leet/tree/master/2235-add-two-integers) |
 | [2396-strictly-palindromic-number](https://github.com/Sagnik8686/Leet/tree/master/2396-strictly-palindromic-number) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Sagnik8686/Leet/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2544-alternating-digit-sum](https://github.com/Sagnik8686/Leet/tree/master/2544-alternating-digit-sum) |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/Sagnik8686/Leet/tree/master/3079-find-the-sum-of-encrypted-integers) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Sagnik8686/Leet/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Sagnik8686/Leet/tree/master/3875-construct-uniform-parity-array-i) |
