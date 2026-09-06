@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1323-maximum-69-number](https://github.com/Sagnik8686/Leet/tree/master/1323-maximum-69-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Sagnik8686/Leet/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2169-count-operations-to-obtain-zero](https://github.com/Sagnik8686/Leet/tree/master/2169-count-operations-to-obtain-zero) |
+| [2180-count-integers-with-even-digit-sum](https://github.com/Sagnik8686/Leet/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2235-add-two-integers](https://github.com/Sagnik8686/Leet/tree/master/2235-add-two-integers) |
 | [2396-strictly-palindromic-number](https://github.com/Sagnik8686/Leet/tree/master/2396-strictly-palindromic-number) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Sagnik8686/Leet/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Sagnik8686/Leet/tree/master/0258-add-digits) |
 | [0867-transpose-matrix](https://github.com/Sagnik8686/Leet/tree/master/0867-transpose-matrix) |
 | [2169-count-operations-to-obtain-zero](https://github.com/Sagnik8686/Leet/tree/master/2169-count-operations-to-obtain-zero) |
+| [2180-count-integers-with-even-digit-sum](https://github.com/Sagnik8686/Leet/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2390-removing-stars-from-a-string](https://github.com/Sagnik8686/Leet/tree/master/2390-removing-stars-from-a-string) |
 | [2460-apply-operations-to-an-array](https://github.com/Sagnik8686/Leet/tree/master/2460-apply-operations-to-an-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Sagnik8686/Leet/tree/master/2553-separate-the-digits-in-an-array) |
