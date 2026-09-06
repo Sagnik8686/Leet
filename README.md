@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Sagnik8686/Leet/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Sagnik8686/Leet/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Sagnik8686/Leet/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/Sagnik8686/Leet/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Sagnik8686/Leet/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Sagnik8686/Leet/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/Sagnik8686/Leet/tree/master/0509-fibonacci-number) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Sagnik8686/Leet/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/Sagnik8686/Leet/tree/master/0258-add-digits) |
 | [0867-transpose-matrix](https://github.com/Sagnik8686/Leet/tree/master/0867-transpose-matrix) |
 | [2169-count-operations-to-obtain-zero](https://github.com/Sagnik8686/Leet/tree/master/2169-count-operations-to-obtain-zero) |
 | [2390-removing-stars-from-a-string](https://github.com/Sagnik8686/Leet/tree/master/2390-removing-stars-from-a-string) |
@@ -281,4 +283,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Sagnik8686/Leet/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3903-smallest-stable-index-i](https://github.com/Sagnik8686/Leet/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Sagnik8686/Leet/tree/master/3904-smallest-stable-index-ii) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Sagnik8686/Leet/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
