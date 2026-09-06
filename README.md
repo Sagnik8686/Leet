@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0564-find-the-closest-palindrome](https://github.com/Sagnik8686/Leet/tree/master/0564-find-the-closest-palindrome) |
 | [1137-n-th-tribonacci-number](https://github.com/Sagnik8686/Leet/tree/master/1137-n-th-tribonacci-number) |
 | [1323-maximum-69-number](https://github.com/Sagnik8686/Leet/tree/master/1323-maximum-69-number) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Sagnik8686/Leet/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2396-strictly-palindromic-number](https://github.com/Sagnik8686/Leet/tree/master/2396-strictly-palindromic-number) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Sagnik8686/Leet/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/Sagnik8686/Leet/tree/master/3079-find-the-sum-of-encrypted-integers) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Sagnik8686/Leet/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Sagnik8686/Leet/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Sagnik8686/Leet/tree/master/0268-missing-number) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Sagnik8686/Leet/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2351-first-letter-to-appear-twice](https://github.com/Sagnik8686/Leet/tree/master/2351-first-letter-to-appear-twice) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Sagnik8686/Leet/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 ## Counting
