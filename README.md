@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/Sagnik8686/Leet/tree/master/0509-fibonacci-number) |
 | [0564-find-the-closest-palindrome](https://github.com/Sagnik8686/Leet/tree/master/0564-find-the-closest-palindrome) |
 | [1137-n-th-tribonacci-number](https://github.com/Sagnik8686/Leet/tree/master/1137-n-th-tribonacci-number) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Sagnik8686/Leet/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1323-maximum-69-number](https://github.com/Sagnik8686/Leet/tree/master/1323-maximum-69-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Sagnik8686/Leet/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2169-count-operations-to-obtain-zero](https://github.com/Sagnik8686/Leet/tree/master/2169-count-operations-to-obtain-zero) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Sagnik8686/Leet/tree/master/0643-maximum-average-subarray-i) |
 | [0867-transpose-matrix](https://github.com/Sagnik8686/Leet/tree/master/0867-transpose-matrix) |
 | [1089-duplicate-zeros](https://github.com/Sagnik8686/Leet/tree/master/1089-duplicate-zeros) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Sagnik8686/Leet/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Sagnik8686/Leet/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/Sagnik8686/Leet/tree/master/1480-running-sum-of-1d-array) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/Sagnik8686/Leet/tree/master/2016-maximum-difference-between-increasing-elements) |
