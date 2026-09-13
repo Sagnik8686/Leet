@@ -14,12 +14,12 @@ int countNodes(struct TreeNode* node){
         return 0;
     return 1+countNodes(node->left)+countNodes(node->right);
 }
-void inorder(struct TreeNode* root,int *arr,int *index){
+void preorder(struct TreeNode* root,int *arr,int *index){
     if(root==NULL)
         return;
     arr[(*index)++]=root->val;
-    inorder(root->left,arr,index);
-    inorder(root->right,arr,index);
+    preorder(root->left,arr,index);
+    preorder(root->right,arr,index);
     // return arr;
 }
 int* preorderTraversal(struct TreeNode* root, int* returnSize) {
@@ -27,7 +27,7 @@ int* preorderTraversal(struct TreeNode* root, int* returnSize) {
     int *arr=malloc(size*sizeof(int));
     *returnSize=size;
     int index=0;
-    inorder(root,arr,&index);
+    preorder(root,arr,&index);
     return arr;
 }
 
