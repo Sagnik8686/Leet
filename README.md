@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Sagnik8686/Leet/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/Sagnik8686/Leet/tree/master/0509-fibonacci-number) |
 | [0564-find-the-closest-palindrome](https://github.com/Sagnik8686/Leet/tree/master/0564-find-the-closest-palindrome) |
+| [0836-rectangle-overlap](https://github.com/Sagnik8686/Leet/tree/master/0836-rectangle-overlap) |
 | [1137-n-th-tribonacci-number](https://github.com/Sagnik8686/Leet/tree/master/1137-n-th-tribonacci-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Sagnik8686/Leet/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1323-maximum-69-number](https://github.com/Sagnik8686/Leet/tree/master/1323-maximum-69-number) |
@@ -344,4 +345,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Sagnik8686/Leet/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Sagnik8686/Leet/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Sagnik8686/Leet/tree/master/0145-binary-tree-postorder-traversal) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/Sagnik8686/Leet/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
