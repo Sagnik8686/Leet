@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Sagnik8686/Leet/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Sagnik8686/Leet/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/Sagnik8686/Leet/tree/master/1480-running-sum-of-1d-array) |
+| [1929-concatenation-of-array](https://github.com/Sagnik8686/Leet/tree/master/1929-concatenation-of-array) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/Sagnik8686/Leet/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Sagnik8686/Leet/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Sagnik8686/Leet/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Sagnik8686/Leet/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/Sagnik8686/Leet/tree/master/0258-add-digits) |
 | [0867-transpose-matrix](https://github.com/Sagnik8686/Leet/tree/master/0867-transpose-matrix) |
+| [1929-concatenation-of-array](https://github.com/Sagnik8686/Leet/tree/master/1929-concatenation-of-array) |
 | [2169-count-operations-to-obtain-zero](https://github.com/Sagnik8686/Leet/tree/master/2169-count-operations-to-obtain-zero) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Sagnik8686/Leet/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2390-removing-stars-from-a-string](https://github.com/Sagnik8686/Leet/tree/master/2390-removing-stars-from-a-string) |
